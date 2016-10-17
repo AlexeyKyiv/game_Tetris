@@ -1,0 +1,10 @@
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\bin\Debug\CCTetris.exe.config
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\bin\Debug\CCTetris.exe
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\bin\Debug\CCTetris.pdb
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.MainFormController.resources
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.Properties.Resources.resources
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.View.resources
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.csproj.GenerateResource.Cache
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.exe
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.pdb
+D:\D o c u m e n t s\Visual Studio 2013\Projects\CCTetris\CCTetris\obj\Debug\CCTetris.csprojResolveAssemblyReference.cache
